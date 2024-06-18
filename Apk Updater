@@ -1,7 +1,7 @@
 {
-    "versionCode":1,
-    "versionName":"1.0.0",
+    "versionCode":3,
+    "versionName":"3.0.0",
     "contentText":"App Update",
     "minSupport":21,
-    "url":"applink"
+    "url":"https://upload.app/download/alien-tunnel-pro/org.alientunnel.pro/2a5927fef3b1c0d455464040e19ec69eec278e1f959b867f0170a421f1ac5981"
 }
